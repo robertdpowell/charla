@@ -3,27 +3,20 @@
 # dialogue section
 
 dialogue:
-  - jac: 
-      text: Helo Sali, sut wyt ti heddiw
-      translation: Hello Sali, how are you today
-    sali:
-      text: Helo Jac! Dw i'n iawn diolch, a ti?
-      translation: Hello Jac! I'm fine, thank you, and you?
-  - jac:
-      text: Dw i'n iawn hefyd, diolch. O, mae gen i newyddion gwych! Rydyn ni'n trefnu parti yn y tŷ penwythnos nesaf. Rydyn ni angen paratoi'r tŷ.
-      translation: I'm fine too, thank you. Oh, I have great news! We're organizing a party at the house next weekend. We need to prepare the house.
-    sali:
-      text: Waw, mae hynny'n swnio'n hwyl! Felly, beth mae angen i ni wneud i baratoi'r tŷ?
-      translation: Wow, that sounds fun! So, what do we need to do to prepare the house?
-  - jac:
-      text: Wel, mae angen i ni glirio'r ystafell fyw, addurno, trefnu bwyd a diod, a gwahodd pobl.
-      translation: Well, we need to clear the living room, decorate, arrange food and drinks, and invite people.
-    sali:
-      text: Iawn, gallaf i helpu gyda'r addurniadau a gwahodd rhai o'm ffrindiau. Beth am y bwyd a'r diod?
-      translation: Okay, I can help with the decorations and invite some of my friends. What about the food and drinks?
-  - jac:
-      text: Gallwn ni brynu bwyd a diod o'r siop leol, a gwneud rhai pwdinau cartref hefyd. A wyt ti'n fodlon helpu gyda hynny?
-      translation: We can buy food and drinks from the local store, and make some homemade snacks as well. Are you willing to help with that?
-    sali:
-      text: Wrth gwrs, mi fyddaf yn hapus iawn i helpu. Edrychaf ymlaen at y parti!
-      translation: Of course, I'd be more than happy to help. I'm looking forward to the party!
+  - juan: 
+      text: Hola Bea, ¿has oído hablar de la programación en pareja con IA?
+      translation: Hello Bea, have you heard about AI pair programming?
+    bea:
+      text: Hola Juan, sí, he oído hablar de ello. ¿Has tenido alguna experiencia con eso?
+      translation: Hello Juan, yes, I've heard about it. Have you had any experience with it?
+  - juan:
+      text: Sí, lo he utilizado y creo que tiene muchos beneficios. Uno de ellos es que mejora la calidad del código.
+      translation: Yes, I've used it and I think it has many benefits. One of them is that it improves code quality.
+    bea:
+      text: Eso suena genial. ¿Hay otros beneficios?
+      translation: That sounds great. Are there any other benefits?
+  - juan:
+      text: Claro, otro beneficio es que ayuda a prevenir errores antes de que ocurran, ya que el AI ofrece sugerencias y soluciones en tiempo real.
+      translation: Sure, another benefit is that it helps prevent errors before they occur, as the AI provides real-time suggestions and solutions.
+    bea:
+      text: ¡Eso definitivamente puede ahorrar mucho tiempo!
