@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: robertdpowell/charla
 spec:
   type: other
-  lifecycle: unknown
+  lifecycle: test
   owner: rob
